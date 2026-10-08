@@ -1,4 +1,5 @@
 import numpy as np
+
 # 1. Create ndarray
 sales = np.array([
     [120,150,180,200,220,250], #product a
